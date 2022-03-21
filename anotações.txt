@@ -1,0 +1,19 @@
+/*
+formas de função 
+*/
+//function nomeDaFuncao(parametros)
+   //conteudo de função
+//let variavel1 = f(x)=x+1
+//let nomeDaFuncao=function(parametro){
+    //conteudo
+//}
+//nomeDaFuncao(x)
+//retorna alguma coisa
+
+
+no javascript, podemos definir funções e analisar a sua definição em uma varialvel
+Do que na matematica podermso ter: 
+f(x = x+1)
+Armazenamos em uma variavel f o conteudo da função
+f(1)=2
+2
